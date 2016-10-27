@@ -23,7 +23,7 @@ layout: default
             {% if post.categories contains 'projeto' %}
               <a class="post-list-item" href="{{ post.link }}" target="_blank">
                 <h2> {{ post.titulo }} - {{ post.proponente }}</h2>
-                <img src="{{ post.imagem }}" style="width: 100%;">
+                <img src="{{ "post.imagem" | prepend: site.baseurl }}" style="width: 100%;">
                 <h4> {{ post.content }} </h4>
               </a>
             {% endif %}
