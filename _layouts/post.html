@@ -5,7 +5,12 @@ layout: default
   <div id="myArticle" class="col-sm-9">
     <div class="post-area post">
       <header>
+        {% if page.nome %}
         <h1>{{ page.nome }}</h1>
+        {% endif %}
+        {% if page.titulo %}
+        <h1>{{ page.titulo }}</h1>
+        {% endif %}
       </header>
       <hr>
       <article>
