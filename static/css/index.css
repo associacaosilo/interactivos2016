@@ -273,6 +273,14 @@ footer .point{
 	-o-box-shadow: 0 0 5px 2px rgba(0,0,0,0.1);
 	box-shadow: 0 0 5px 2px rgba(0,0,0,0.1);
 }
+.post img {
+  display: block;
+  margin: 24px auto;
+}
+.post iframe {
+  display: block;
+  margin: 24px auto;
+}
 /**
  * Blockquotes
  */
