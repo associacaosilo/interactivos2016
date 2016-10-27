@@ -2,7 +2,7 @@
 title: Interactivos?'16
 description: Água e Autonomia
 
-baseurl: ""
+baseurl: "blog-test00"
 url: "http://yourdomain.com"
 permalink: /:year/:month/:day/:title/
 
