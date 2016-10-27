@@ -2,7 +2,7 @@
 layout: frontpage
 ---
 
-<!-- ![](http://www.zecirilonatv.com.br/wp-content/uploads/sites/2/2016/02/agua.png) -->
+### Água e Autonomia
 
 Interactivos? é um laboratório colaborativo de desenvolvimento de projetos. Este ano de 2016, o tema do nosso Interactivos?’16 é Água e Autonomia. Este pretende ser um estudo sobre hidrologia autônoma incentivando o cruzamento entre os saberes populares, científicos, técnicos e artísticos na proposição de soluções para as questões da água em diversos âmbitos por meio de uma perspectiva cidadã.
 
