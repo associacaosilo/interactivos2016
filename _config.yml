@@ -1,0 +1,13 @@
+# Site settings
+title: Interactivos?'16
+description: Água e Autonomia
+
+baseurl: ""
+url: "http://yourdomain.com"
+permalink: /:year/:month/:day/:title/
+
+#########################################
+
+# Build settings
+markdown: kramdown
+port: 4444

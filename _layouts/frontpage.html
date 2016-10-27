@@ -1,0 +1,71 @@
+---
+layout: default
+---
+<div class="row">
+  <div id="myArticle" class="col-sm-9">
+    <div class="post-area post">
+      <article>
+        {{content}}
+      </article>
+    </div>
+  </div>
+</div>
+<p><br/></p>
+<div id="index" class="row">
+  <div class="col-sm-9" style="margin: 0 auto; float: none">
+   <div class="post-area ">
+	  <div class="post-list-header">
+	   Projetos
+	  </div>
+      <div class="post-list-body">
+        <div class="all-posts" post-cate="All">
+          {% for post in site.posts %}
+            {% if post.categories contains 'projeto' %}
+              <a class="post-list-item" href="{{ post.link }}" target="_blank">
+                <h2> {{ post.titulo }} - {{ post.proponente }}</h2>
+                <img src="{{ post.imagem }}" style="width: 100%;">
+                <h4> {{ post.content }} </h4>
+              </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    <div class="post-area ">
+	  <div class="post-list-header">
+	  Participantes
+	  </div>
+      <div class="post-list-body">
+        <div class="all-posts" post-cate="All">
+          {% for post in site.posts %}
+            {% if post.categories contains 'pessoa' %}
+              <a class="post-list-item" href="{{ post.url }}">
+                <h2> {{ post.nome }} </h2>
+              </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% if false %}
+  <div class="col-sm-3">
+    <div class="shadow-corner-curl hidden-xs">
+      <div class="categories-list-header">
+        Categories
+      </div>
+      
+      <a href="javascript:;" class="categories-list-item" cate="All">
+        All<span class="my-badge"> {{site.posts | size}}</span>
+      </a>
+      {% for category in site.categories %}
+        <a href="javascript:;" class="categories-list-item" cate="{{ category | first }}">
+          {{ category | first }} <span class="my-badge">{{ category | last | size }}</span>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+</div>
