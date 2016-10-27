@@ -21,7 +21,7 @@ layout: default
         <div class="all-posts" post-cate="All">
           {% for post in site.posts %}
             {% if post.categories contains 'projeto' %}
-              <a class="post-list-item" href="{{ post.link }}" target="_blank">
+              <a class="post-list-item" href="{{ post.link | prepend: site.baseurl }}">
                 <h2> {{ post.titulo }} - {{ post.proponente }}</h2>
                 <img src="{{ post.imagem | prepend: site.baseurl }}" style="width: 100%;">
                 <h4> {{ post.content }} </h4>
