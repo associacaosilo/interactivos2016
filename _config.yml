@@ -2,7 +2,7 @@
 title: Interactivos?'16
 description: Água e Autonomia
 
-baseurl: "/blog-test00"
+baseurl: "/blog-test00/"
 url: "https://thiagohersan.github.io/blog-test00/"
 permalink: /:year/:month/:day/:title/
 
