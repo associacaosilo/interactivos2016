@@ -40,7 +40,7 @@ layout: default
         <div class="all-posts" post-cate="All">
           {% for post in site.posts %}
             {% if post.categories contains 'pessoa' %}
-              <a class="post-list-item" href="{{ post.url }}">
+              <a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}">
                 <h2> {{ post.nome }} </h2>
               </a>
             {% endif %}
