@@ -2,7 +2,7 @@
 title: Interactivos?'16
 description: Água e Autonomia
 
-baseurl: "/"
+baseurl: ""
 url: "//doc.interactivos16.info"
 permalink: /:year/:month/:day/:title/
 
