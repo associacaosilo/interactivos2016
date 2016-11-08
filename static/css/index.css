@@ -19,6 +19,11 @@ pre code{
 	font-size: 14px;
 }
 
+audio, video {
+    display: block;
+    margin: 0 auto;
+}
+
 table{
 	border-top:2px solid #777;
 	border-bottom: 2px solid #777;
