@@ -19,11 +19,11 @@ Foto da montagem com multimetro
 No entanto fazendo a montagem do Espectrofotometro no esquema para absorção (frente de onda da fonte luminosa perpendicular a rede de difração) conseguimos perceber a absorção de alguns espectros esperados.
 
 ## Validade Absorção
-Na montagem do espectrofotometro para absorção usamos um Led RGB de uso geral de 100 mW, alimentado com uma fonte de 5V, é possîvel ver índicios na espectrofotometria de uma amostra de Azeite de oliva extra virgem a absorção de espectros no UV-Vis. 
+Na montagem do espectrofotometro para absorção usamos um Led RGB de uso geral de 100 mW, alimentado com uma fonte de 5V, é possîvel ver índicios na espectrofotometria de uma amostra de Azeite de oliva extra virgem a absorção de espectros no UV-Vis.  
 - [LED UV](https://spectralworkbench.org/spectrums/90347)  
 - [Azeite de Oliva e LED UV](https://spectralworkbench.org/spectrums/90364)  
 
-Também foi possível perceber a absorção de espectros no vermelho para amostras de solução de detergente com diferentes concentrações.
+Também foi possível perceber a absorção de espectros no vermelho para amostras de solução de detergente com diferentes concentrações.  
 - [Espectro LED Vermelho 08NOV](https://spectralworkbench.org/spectrums/90613)  
 - [Espectro LED vermelho Agua detergente](https://spectralworkbench.org/spectrums/90614)  
 - [Espectro LED vermelho Agua detergente 5 gotas](https://spectralworkbench.org/spectrums/90615)  
