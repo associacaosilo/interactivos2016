@@ -6,7 +6,7 @@ titulo: "Resultados Medição Nível Rio"
  
 ## Realizou-se coleta de água, medição de nível e medição de velocidade da água no Alambari nos seguintes pontos:
 
-![](/static/imgs/sensores/joao/coleta_alambari.jpg)  
+![](//c2.staticflickr.com/6/5533/25392714939_5907ee197e_o.jpg)  
 
 ## Coordenadas dos pontos
 
@@ -35,20 +35,20 @@ titulo: "Resultados Medição Nível Rio"
 # Ponto 001  
 ## Cálculos  
 
-![](/static/imgs/sensores/joao/resultado_001.jpg)  
+![](//c2.staticflickr.com/6/5611/25392711649_14ce22237d_o.jpg)  
 
 ## Seção  
 
-![](/static/imgs/sensores/joao/secao_001.jpg) 
+![](//c2.staticflickr.com/6/5706/25392711589_3ccd8fc799_o.jpg) 
 
 # Ponto 002  
 ## Cálculos  
   
-![](/static/imgs/sensores/joao/resultado_002.jpg)
+![](//c2.staticflickr.com/6/5345/30727336730_bdf9474cc9_o.jpg)
 
 ## Seção  
 
-![](/static/imgs/sensores/joao/secao_002.jpg)
+![](//c2.staticflickr.com/6/5461/30727336510_88f0a9f171_o.jpg)
 
 # Ponto 003  
 
