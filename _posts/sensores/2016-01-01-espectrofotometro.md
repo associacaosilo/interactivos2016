@@ -42,10 +42,13 @@ Um ponto extremamente sensível é a fenda. Ela precisa ficar bem fixada em todo
 
 Usamos um LED RGB para fazer uma espectrofotometria de absorção;
 ![](//c2.staticflickr.com/6/5730/30993421626_bb7bce3ecf_b.jpg)
+
 Na espectrofotometria por absorção usamos a fonte de luz perpendicular ao plano focal;
 ![](//c2.staticflickr.com/6/5659/31029354125_734e581703_b.jpg)
+
 Testamos a espectrografia por emissão no UV-Vis, usando a fonte de Luz paralela ao plano focal;
 ![](//c2.staticflickr.com/6/5725/30993420886_1740941635_b.jpg)
+
 A situação mais estável para espectrofotometria no UV-Vis foi usando dois LEDs UV (~390nm) de 3W, usando uma fonte limitada em 700 mA de corrente na configuração de maior intensidade;
 ![](//c2.staticflickr.com/6/5715/30993421366_9b16847616_b.jpg)
 
