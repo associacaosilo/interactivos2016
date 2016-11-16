@@ -62,6 +62,7 @@ Para determinação desses parâmetros utiliza-se métodos diretos e físico-qu�
 - Mufla
 - Dessecador
 - Balança analítica  
+
 ### Procedimento:
 Colocar o cadinho de porcelana na mufla a 550°C durante 1 hora para se eliminar todas as impurezas presentes no cadinho. 
 Guardar o cadinho a ser utilizado no dessecador até ser necessário seu uso. 
@@ -81,6 +82,7 @@ Escreva os resultados com a precisão de 0,1 ou 1°C, dependendo da necessidade.
 ## Oxigênio Dissolvido  
 
 Existem dois métodos, um direto medido no campo no local da coleta, usando uma sonda. Esse método possui bastante variação de exige um equipamento bem calibrado.O método físico-quimico gera resultados mais precisos, porém não pode ser realizado em campo gerando maiores interferências pela procedimento de amostragem.Esse método está descrito abaixo  
+
 ### Materiais:  
 - Frasco de DBO de 300mL  
 - Pipeta graduada de 2 mL  
@@ -89,6 +91,7 @@ Existem dois métodos, um direto medido no campo no local da coleta, usando uma 
 - Erlenmeyer de 250mL  
 - Becker de 50 e 100mL  
 - Bureta de 25mL
+
 ### Procedimento:
 Fechar cuidadosamente o frasco com a amostra, adicionar 2mL de solução de sulfato de manganês, fechar o frasco e agitar, adicionar 2mL de solução de Azida-sódica, fechar novamente o frasco.Repousar a amostra para decantar por 30 minutos. Adicionar 2mL de ácido sulfúrico concentrado, fechar o frasco e agitar, após dissolvido completamente, iniciar a titulação.Transferir 50mL da amostra para um erlenmeyer e titular imediatamente com a solução de tiossulfato de sódio até que a coloração da solução se torne amarelo fraco.Adicionar 10 gotas de suspensão de amido e continuar a titulação até o desaparecimento da coloração azul.Anotar o volume gasto na titulação e calcular o teor de oxigênio dissolvido.
 Vc=(Vf-2)x100/Vf
@@ -108,6 +111,7 @@ N = Normalidade do tiossulfato
 - Becker de 500mL, 1000mL e 2000mL;  
 - Pipetas volumétricas, capacidades diversas;  
 - Balões volumétricos, capacidades diversas.  
+
 ### Procedimento:
 Ajustar o pH da amostra entre 6,5 e 7,5 e eliminar os interferentes, se necessário.Transferir por sifonação a amostra homogeneizada para dois frascos de DBO, até transbordar, e tampar com cuidado sem deixar bolhas de ar no interior deles.Após 15 min, determinar a concentração de oxigênio dissolvido OD, em um dos frascos.Incubar o outro frasco por (120 ± 2)h a 20°C no escuro. Em seguida, determinar a concentração de oxigênio dissolvido.A expressão do resultado da DBO é:
 mg O2/L=ODi-ODf
@@ -119,6 +123,7 @@ ODf= oxigênio dissolvido em mg/L, determinado após cinco dias de incubação a
   
 ### Materiais:
 - Vidro de Kjeldahl de 800mL  
+
 #### Procedimento: 
 Escolher o volume da amostra a ser analisado, colocar o volume da amostra no vidro Kjedahl, utilizar a tabela na pág 4/124 do livro Standard Methods for examination of water and wastewater 20th edition.Adicionar 25ml de “borate buffer” e “6N NaOH” até o pH chegar a 9,5. Adicionar pequenas bolinhas de vidro (pedras de ebulição) e ferver até obter 300ml da amostra.Se desejar, destile essa porção e determine o nitrogênio amoníaco, usar o resíduo no vidro de destilação para determinar o nitrogênio orgânico. Esfrie e adicione cuidadosamente 50ml de reagente de digestão (ou substitua 6,7ml de H2SO4, 6,7g de K2SO4 e 0,365g CuSO4) para o vidro de destilação,adicionar bolinhas de vidro e misturar, aquecer a mistura em um equipamento apropriado para a remoção do ácido fumes, ferver rapidamente até que o volume seja drasticamente reduzido em torno de 25 e 50ml e muita fumaça branca seja observada, a fumaça poderá ser escura se a amostra apresentar elevada taxa de matéria orgânica.Continuar a digestão por mais 30 minutos, as amostras se tornarão transparentes ou verde pálidos, após a digestão esfrie a amostra e adicione 300ml de água e misture.Cuidadosamente adicione 50ml de tiossulfato de hidróxido de sódio para formar uma camada alcalina no fundo do vidro, conectar o vidro em um destilador para a retirada de vapor e mexer o vidro para que a mistura seja completa.O pH da solução deve ser maior que 11,0.
 
@@ -132,6 +137,7 @@ Escolher o volume da amostra a ser analisado, colocar o volume da amostra no vid
 - Filtro poroso (1µm)  
 - Suspensão em estoque de turbidez de padrão primário  
 - Padrões secundários
+
 ### Procedimento:  
 Calibrar o aparelho com o auxílio de padrões comerciais, pertencentes ao kit do próprio aparelho, agitar a amostra para se obter homogeneidade,colocar a amostra no tubo do turbidímetro e ler a turbidez na escala do aparelho.
 
@@ -149,16 +155,20 @@ fósforo reativo;fósforo orgânico;fósforo ácido-hidrolizável;
 -Fósforo reativo: corresponde a análise do fosfato diretamente por  método colorimétrico sem a realização preliminar da hidrólise ou digestão oxidativa.  
 -Fósforo orgânico: é uma fração do fosfato que foi convertida em ortofosfato apenas pela oxidação da matéria orgânica presente na amostra.	  
 -Fósforo ácido-hidrolizável: é toda a parcela da amostra que passou por um hidrólise ácida em água fervendo, convertendo o fostato dissolvido e o particulado condensado em ortofosfato.Assim para determinação do fósforo total deve-se utilizar o método digestivo e o colorimétrico. Para ambos existem três métodos:  
+
 ### Digestão:  
 -Método do ácido perclórico: Extremamente agressivo, é utilizado em amostras difíceis, como sedimentos ou lodos;  
 -Método do ácido nítrico - ácido sulfúrico: É indicado para maioria dos casos;  
 -Método do persulfato: É o mais simples de todos, aplicado quando se sabe que a eficiência é comparável aos de digestão drástica;
+
 ### Colorimétrico  
 -Método do ácido Vanadomolibdofosfórico: Utilizado para concentrações de fósforo entre 1-20 mg/L;  
 -Método do cloreto de estanho: Utilizado para concentrações de fósforo entre 0,01-6 mg/L;  
 -Método do ácido ascórbico: Utilizado para concentrações de fósforo entre 0,01-6 mg/L;  
 Obs: para concentrações inferiores a 0,01 mg/L utilizam-se outros métodos, como cromatografia, métodos automatizados, etc.Para a análise de fósforo total em amostra de água bruta utilizará o método digestivo ácido nítrico-ácido sulfúrico e o método colorimétrico do ácido ascórbico.
+
 ### Materiais e Reagentes  
+
 ### Materiais  
 - Espectrofotometro;  
 - chapa aquecedora;  
@@ -172,6 +182,7 @@ Obs: para concentrações inferiores a 0,01 mg/L utilizam-se outros métodos, co
 - 3 Balões volumétricos de 100mL;  
 - 3 Balões volumétricos de 500mL com tampa;  
 - 3 Balões volumétricos de 1 L;
+
 ### Reagentes  
 - Ácido sulfúrico conc.(H_2 SO_4);  
 - Ácido nítrico conc.(HNO_3);  
@@ -181,6 +192,7 @@ Obs: para concentrações inferiores a 0,01 mg/L utilizam-se outros métodos, co
 - Molibdato de amônio. ((NH_4 ) 〖Mo〗_7 O_24.4H_2 O);  
 - Ácido ascórbico;  
 - Fosfato monobásico de potássio.(〖KH〗_2 PO_4);  
+
 ### Procedimento
 Preparo das soluções:  
 (a)  Solução aquosa de fenolftaleína: Dissolva 5g do sal disódio fenolftaleína em água destilada e dilua para 1L em balão volumétrico.  
@@ -195,9 +207,11 @@ aproximadamente por  1 semana, mantida refrigerada à 4ºC)
 50 mL  da solução de ácido sulfúrico (5N) (c), 5 mL da solução de tartarato de potássio antimonial (d), 15 mL da solução de molibdato de amônio(e) e 30 mL solução de ácido ascórbico(f).As soluções anteriores (c,d,e,f) devem ser ambientadas à temperatura da sala para a preparação do reagente,caso ocorra uma turbidez agitar e aguardar alguns minutos até que essa desapareça.(esta solução é estável aproximadamente por  4 horas).  
 (h) Solução estoque de fosfato: Dissolver 219.5 mg de 〖KH〗_2 PO_4 anidro em água destilada e diluir para 1 L.(1 mL = 50 µg PO3--P)  
 (i) Solução padrão de fosfato: Diluir 50 mL da solução estoque de fosfato para 1 L com água destilada.(1 mL = 2.5 µg P), ou seja, 2,5mg/L  
+
 ### Digestão  
 Colocar 50mL da amostra no béquer de 400mL, em seguida adicionar 1mL de ácido sulfúrico concentrado(H_2 SO_4) e 5mL de ácido de nítrico concentrado(HNO_3).
 Realizar a digestão para o volume de 1 mL e continuar até a solução ficar totalmente transparente para remover o  HNO_3.Resfrie e adicione aproximadamente 20mL de água destilada, uma gota de fenolftaleína(a), e a quantidade necessária da solução de hidróxido de sódio(b) (NaOH ,1N)para produzir uma coloração rósea, ou seja, realização de uma titulação ácido base.Transferir a solução neutralizada para o balão volumétrico de 100mL, filtrando se necessário para remover as partículas sólidas ou turbidez.Completar o volume com água destilada, e seguir para o processo colorimétrico.  
+
 ### Método colorimétrico do ácido ascórbico
 Pipetar 50 mL da amostra digerida em um erlenmeyer de 125 mL, adicionar uma gota de fenolfataleína(a) , se prevalecer a cor rosa escuro adicionar a solução de  H_2 SO_4 (5N) (c) gotejando apenas para amenizar a cor. Adicione 8 mL de reagente combinado(g) e misture exaustivamente. Após pelo menos 10min e não mais do que 30 min meça a absorbância de cada amostra,utilizando um comprimento de onda de 880 nm, e tomando o reagente branco como solução de referência.Com os dados e as leituras deve-se plotar o gráfico absorbância versus concentração de fósforo.
 
@@ -209,25 +223,3 @@ parâmetros:
 - Parâmetros que avaliam a presença de substâncias tóxicas (teste de mutagenicidade, potencial de formação de trihalometanos,cádmio, chumbo, cromo total, mercúrio e níquel);  
 - Parâmetros que afetam a qualidade organoléptica  da água (fenóis, ferro, manganês, alumínio, cobre e zinco). 
 	
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-   
-
-
-
