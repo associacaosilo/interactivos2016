@@ -20,13 +20,13 @@ No entanto fazendo a montagem do Espectrofotometro no esquema para absorção (f
 
 ## Validade Absorção
 Na montagem do espectrofotometro para absorção usamos um Led RGB de uso geral de 100 mW, alimentado com uma fonte de 5V, é possîvel ver índicios na espectrofotometria de uma amostra de Azeite de oliva extra virgem a absorção de espectros no UV-Vis. 
-- [LED UV](https://spectralworkbench.org/spectrums/90347)
-- [Azeite de Oliva e LED UV](https://spectralworkbench.org/spectrums/90364)
+- [LED UV](https://spectralworkbench.org/spectrums/90347)  
+- [Azeite de Oliva e LED UV](https://spectralworkbench.org/spectrums/90364)  
 
 Também foi possível perceber a absorção de espectros no vermelho para amostras de solução de detergente com diferentes concentrações.
-- [Espectro LED Vermelho 08NOV](https://spectralworkbench.org/spectrums/90613)
-- [Espectro LED vermelho Agua detergente](https://spectralworkbench.org/spectrums/90614)
-- [Espectro LED vermelho Agua detergente 5 gotas](https://spectralworkbench.org/spectrums/90615)
+- [Espectro LED Vermelho 08NOV](https://spectralworkbench.org/spectrums/90613)  
+- [Espectro LED vermelho Agua detergente](https://spectralworkbench.org/spectrums/90614)  
+- [Espectro LED vermelho Agua detergente 5 gotas](https://spectralworkbench.org/spectrums/90615)  
 
 ## Podemos usar a espectrofotometria para acompanhar um rio?
 
