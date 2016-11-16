@@ -13,18 +13,21 @@ titulo: "Resultados Medição Nível Rio"
 ## Ponto 001  
   
 ### Latitude: 22°23'42.00"S
+
 ### Longitude: 44°32'34.00"O
 
 
 ## Ponto 002  
   
 ### Latitute: 22°24'12.00"S
+
 ### Longitude: 44°30'50.00"O
   
   
 ## Ponto 003  
   
 ### Latitute: 22°23'46.96"S
+
 ### Longitude: 44°33'16.41"O
 
 ## Através das leituras de profundidades foi possível realizar a batimetria da seção transversal do rio e com as velocidades calculou-se  a vazão:  
