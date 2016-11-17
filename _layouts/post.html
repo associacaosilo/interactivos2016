@@ -2,9 +2,15 @@
 layout: default
 ---
 <div class="row">
+
   <div id="myArticle" class="col-sm-9">
     <div class="post-area post">
       <header>
+        {% if page.categories and page.titulo %}
+        <p>
+          <a href="/">Interactivos?'16</a> ▶ <a href="/{{ page.categories }}">{{ page.categories }}</a>
+        </p>
+        {% endif %}
         {% if page.nome %}
         <h1>{{ page.nome }}</h1>
         {% endif %}
@@ -17,6 +23,11 @@ layout: default
         {{content}}
       </article>
       <hr>
+      {% if page.categories and page.titulo %}
+      <p>
+        <a href="/">Interactivos?'16</a> ▶ <a href="/{{ page.categories }}">{{ page.categories }}</a> ▶ <a href=" {{ page.url }}#main">{{ page.titulo }}</a>
+      </p>
+      {% endif %}
     </div>
   </div>
 </div>
