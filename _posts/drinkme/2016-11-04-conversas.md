@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: drinkme
-titulo: "conversas muito resumidas"
+titulo: "Conversas muito resumidas"
 ---
 
 ## andando na serrinha  
