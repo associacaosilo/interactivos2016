@@ -24,7 +24,9 @@ layout: default
               <a class="post-list-item" href="{{ post.link | prepend: site.baseurl }}">
                 <h2> {{ post.titulo }} </h2>
                 <h2> {{ post.proponente }} </h2>
-                <img src="{{ post.imagem | prepend: site.baseurl }}" style="width: 100%;">
+                <div class="cover-container" style="height: 300px; overflow: hidden; position:relative;">
+                  <img src="{{ post.imagem | prepend: site.baseurl }}" style="width: 100%; position: absolute; top: -100%; bottom: -100%; left: 0; right: 0; margin: auto;">
+                </div>
                 <h4> {{ post.content }} </h4>
               </a>
             {% endif %}
