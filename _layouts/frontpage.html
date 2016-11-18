@@ -1,23 +1,23 @@
 ---
 layout: default
 ---
-<div class="row">
-  <div id="myArticle" class="col-sm-9">
-    <div class="post-area post">
-      <article>
-        {{content}}
-      </article>
-    </div>
-  </div>
-</div>
-<p><br/></p>
+
 <div id="index" class="row">
   <div class="col-sm-9" style="margin: 0 auto; float: none">
    <div class="post-area ">
-	  <div class="post-list-header">
-	   Projetos
-	  </div>
-      <div class="post-list-body">
+
+     <div class="post-list-item intro-item">
+       <h2> {{ page.titulo }} </h2>
+       <h4> {{ content }} </h4>
+     </div>
+
+     <!---
+     <div class="post-list-header">
+      Projetos
+	 </div>
+     --->
+
+     <div class="post-list-body">
         <div class="all-posts" post-cate="All">
           {% for post in site.posts %}
             {% if post.categories contains 'projeto' %}
@@ -32,7 +32,7 @@ layout: default
             {% endif %}
           {% endfor %}
         </div>
-      </div>
+     </div>
     </div>
 
     <div class="post-area ">

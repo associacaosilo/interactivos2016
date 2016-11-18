@@ -96,7 +96,7 @@ a.navbar-brand:hover {
 .post-list-header{
 	padding: 15px 30px;
 	border-bottom: 1px solid #c0c0c0;
-	font-size: 30px;
+	font-size: 20px;
 	font-weight: bold;
 }
 .post-list-item{
@@ -123,6 +123,11 @@ a.navbar-brand:hover {
 	
 }
 
+.intro-item h2{
+	font-size: 30px;
+	margin: 8px 0 8px 0;
+	padding: 0;
+}
 
 /* categories list */
 .categories-list-header {
