@@ -78,15 +78,23 @@ a.navbar-brand:hover {
 }
 
 /* index main */
+header.fixed-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+}
+
 .main{
 	min-height: 800px;
+    margin-top: 82px;
 }
-.post-area + .post-area{
-  margin-top: 30px;
+.post-area{
+  margin-bottom: 30px;
 }
 
 .post-area{
-	
 	background-color:#f8f8fd;
 	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
 	-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
@@ -118,9 +126,11 @@ a.navbar-brand:hover {
 	padding: 0;
 }
 
-.post-list-item:hover{
+.post-list-item-link{
+    cursor: pointer;
+}
+.post-list-item-link:hover{
 	background-color: rgba(0,0,6,0.05);
-	
 }
 
 .intro-item h2{
