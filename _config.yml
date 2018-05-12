@@ -2,8 +2,8 @@
 title: Interactivos?'16
 description: Água e Autonomia
 
-baseurl: "/doc.interactivos16"
-url: "https://associacaosilo.github.io"
+baseurl: "/2016"
+url: "https://interactivos.silo.org.br"
 permalink: /:year/:month/:day/:title/
 
 #########################################
