@@ -3,6 +3,9 @@ language: ruby
 rvm:
   - 2.3.1
 
+notifications:
+  email: false
+
 install:
   - gem install jekyll
 
