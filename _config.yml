@@ -11,3 +11,4 @@ permalink: /:year/:month/:day/:title/
 # Build settings
 markdown: kramdown
 port: 4455
+theme: null
